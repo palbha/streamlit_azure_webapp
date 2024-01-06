@@ -56,8 +56,9 @@ python -m streamlit run main.py --server.port 8000 --server.address 0.0.0.0
 
     ### Step 5 :View Application
     1.Go to Overview & see the default domain & click on it
-    2.Please wait(Azure could be slow based on the compute resources) & you will see the page is loaded
-Your webapp will look like this if you replicate the above steps
-Feel free to modify this & create your version of the streamlit app
+    2.Please wait(Azure could be slow based on the compute resources) & you will see the page is loaded 
+
+- Your webapp will look like this if you replicate the above steps 
+- Feel free to modify this & create your version of the streamlit app
     
     ![image](https://github.com/palbha/streamlit_azure_webapp/assets/20269788/e2343d03-050e-45fb-a650-746737f32232)
