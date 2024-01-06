@@ -1,4 +1,4 @@
-# demo-streamlit-azure
+# Streamlit App deployment using Azure - Webapp
 - Demo repo to deploy Streamlit private repo to Azure service.
 - Note: This guideline is written on August 2023. Any changing or deprecation might be happened in the future. 
 
@@ -53,3 +53,11 @@ python -m streamlit run main.py --server.port 8000 --server.address 0.0.0.0
 8. You will be redirected to your Streamlit app. 
 9. Deployment finished. 
 10. Congratulation you have deployed your app on Azure!
+
+    ### Step 5 :View Application
+    1.Go to Overview & see the default domain & click on it
+    2.Please wait(Azure could be slow based on the compute resources) & you will see the page is loaded
+Your webapp will look like this if you replicate the above steps
+Feel free to modify this & create your version of the streamlit app
+    
+    ![image](https://github.com/palbha/streamlit_azure_webapp/assets/20269788/e2343d03-050e-45fb-a650-746737f32232)
